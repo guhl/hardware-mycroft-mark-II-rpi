@@ -1,6 +1,14 @@
 # Mycroft Mark II - Rpi Prototype Hardware
-*Mycroft's Mark II Raspberry Pi 3 based prototype designs*  
-*⛵️ Note that this repository is a work-in-progress. It will be updated and improved on over time.*
+*Mycroft's Mark II Raspberry Pi 3 based prototype designs*
+* Note that this repository is a work-in-progress. It will be updated and improved oover time.*
+## Changlog
+### 2020-06-12
+* The freecad file and the STL files are complete
+* Increased the height by 4 millimeters to get some extra space for the mic array
+* Reduced the size of most of the holes that take up threaded inserts from 4 to 3 milimeters
+## Remarks
+* This design uses only M2.5 Threaded inserts 3.5 mm OD x 4 mm and only M2.5x6 screws
+* The design works with **Raspberry PI 3** and **Raspberry PI 4**
 
 * Note: below you find the current status of the Simplified Case for FDM Printers
 ![Current status of construction](https://github.com/guhl/hardware-mycroft-mark-II-rpi/raw/master/CAD/FREECAD/mark2.png)
